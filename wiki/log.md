@@ -39,3 +39,12 @@
 - Comparison: 板块数据源对比、A股vs港股vs美股、行情接口选择、免费vs付费、资金流向对比 (5 pages)
 - 总计新建 47 个领域知识概念页 + 6 entity + 5 comparison = 58 pages
 - 当前 wiki 共 91 pages (75 concepts + 6 entities + 5 comparisons + 5 queries)
+
+## [2026-05-09] update | P18 补全 21 个 API 目录页详细参数
+- 为 21 个原有 API 目录页追加接口详细参数章节
+- 每个接口新增: 调用说明(积分/频率/条数)、数据说明(更新时间/起始时间)、输入参数表、输出参数表
+- 7 个并行 agent 分组处理: 股票行情+基础+财务(42 APIs)、资金+两融+参考+特色(39 APIs)、ETF+指数(27 APIs)、债券+期货(28 APIs)、港股+美股(20 APIs)、宏观(18 APIs)、打板(22 APIs)
+- 共增强约 196 个 API 接口
+- P19 导航更新: 补回 index.md 中遗漏的外汇与海外资产条目
+- P20 Lint: 修复 6 个断链、14 个孤儿页面(添加入站 wikilink)
+- 最终 lint: 91 pages, 0 broken, 0 orphans, 0 missing index, 0 frontmatter issues
