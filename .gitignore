@@ -10,3 +10,5 @@ __pycache__
 
 data
 logs
+.plan.json
+.plan-v1.json
