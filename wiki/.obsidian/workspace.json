@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/期货持仓.md",
+                "file": "concepts/股票打板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期货持仓"
+              "title": "股票打板"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/期货持仓.md",
+                "file": "concepts/股票打板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "期货持仓 的反向链接列表"
+              "title": "股票打板 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/期货持仓.md",
+                "file": "concepts/股票打板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "期货持仓 的出链列表"
+              "title": "股票打板 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/期货持仓.md",
+                "file": "concepts/股票打板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期货持仓 的大纲"
+              "title": "股票打板 的大纲"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "f99168be5525fffc",
   "lastOpenFiles": [
+    "queries/查龙虎榜游资席位.md",
+    "concepts/期货持仓.md",
     "concepts/股票资金流向.md",
     "concepts/股票基础.md",
     "concepts/股票打板.md",
@@ -205,11 +207,9 @@
     "concepts/经济景气.md",
     "concepts/通胀指标.md",
     "concepts/商品指数.md",
-    "concepts/期货持仓.md",
     "concepts/期货合约.md",
     "concepts/债券市场.md",
     "concepts/国债收益率曲线.md",
-    "concepts/可转债.md",
-    "comparisons/三大资金流向数据源对比.md"
+    "concepts/可转债.md"
   ]
 }
