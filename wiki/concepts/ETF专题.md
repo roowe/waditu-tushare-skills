@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-10
 type: concept
 tags: [etf, quote]
-sources: [references/ETF专题/]
+sources: [raw/ETF专题/]
 ---
 
 # ETF专题

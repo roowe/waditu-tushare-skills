@@ -10,7 +10,7 @@ Tushare Pro 金融数据 API 文档知识库。覆盖 A股、港股、美股、E
 - 更新页面时更新 `updated` 日期
 - 新页面必须添加到 `index.md` 对应分类下
 - 每次操作追加到 `log.md`
-- 来源标记：引用 references 层源文件时使用 `^[references/分类/文件名.md]`
+- 来源标记：引用 raw 层源文件时使用 `^[raw/分类/文件名.md]`
 
 ## Frontmatter
 ```yaml

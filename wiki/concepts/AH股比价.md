@@ -7,7 +7,7 @@ tags:
   - stock
   - hk
 sources:
-  - references/股票数据/特色数据/AH股比价.md
+  - raw/股票数据/特色数据/AH股比价.md
   - stk_ah_comparison
   - ccass_hold_detail
   - ccass_hold

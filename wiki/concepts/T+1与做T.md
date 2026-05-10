@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-10
 type: concept
 tags: [stock, quote]
-sources: [references/股票数据/行情数据/分钟行情.md]
+sources: [raw/股票数据/行情数据/分钟行情.md]
 ---
 
 # T+1与做T

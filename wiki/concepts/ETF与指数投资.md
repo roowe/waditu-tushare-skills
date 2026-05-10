@@ -8,8 +8,8 @@ tags:
   - index
   - fund
 sources:
-  - references/ETF专题/ETF行情.md
-  - references/指数专题/指数行情.md
+  - raw/ETF专题/ETF行情.md
+  - raw/指数专题/指数行情.md
   - etf_basic
   - etf_share_size
   - etf_index
