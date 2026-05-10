@@ -5,8 +5,8 @@ updated: 2026-05-09
 type: concept
 tags: [stock, quote, historical]
 sources:
-  - raw/股票数据/行情数据/通用行情接口.md
-  - raw/股票数据/特色数据/股票技术面因子(专业版).md
+  - references/股票数据/行情数据/通用行情接口.md
+  - references/股票数据/特色数据/股票技术面因子(专业版).md
 ---
 # K线与复权
 > 股票价格的基本记录方式（OHLCV）及消除分红送股影响的价格调整机制。

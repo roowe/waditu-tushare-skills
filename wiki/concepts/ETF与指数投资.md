@@ -1,13 +1,15 @@
 ---
 title: ETF与指数投资
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 type: concept
 tags:
   - etf
   - index
   - fund
 sources:
+  - references/ETF专题/ETF行情.md
+  - references/指数专题/指数行情.md
   - etf_basic
   - etf_share_size
   - etf_index

@@ -1,10 +1,10 @@
 ---
 title: ETF专题
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 type: concept
-tags: [ETF, 基金, 行情, 分钟线, 复权]
-sources: [raw/ETF专题/]
+tags: [etf, quote]
+sources: [references/ETF专题/]
 ---
 
 # ETF专题

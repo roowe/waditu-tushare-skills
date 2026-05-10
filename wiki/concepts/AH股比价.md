@@ -1,12 +1,13 @@
 ---
 title: AH股比价
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-10
 type: concept
 tags:
   - stock
   - hk
 sources:
+  - references/股票数据/特色数据/AH股比价.md
   - stk_ah_comparison
   - ccass_hold_detail
   - ccass_hold

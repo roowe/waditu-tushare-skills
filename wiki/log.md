@@ -48,3 +48,13 @@
 - P19 导航更新: 补回 index.md 中遗漏的外汇与海外资产条目
 - P20 Lint: 修复 6 个断链、14 个孤儿页面(添加入站 wikilink)
 - 最终 lint: 91 pages, 0 broken, 0 orphans, 0 missing index, 0 frontmatter issues
+
+## [2026-05-10] create+update | wiki 领域知识补全与质量修复 (v2)
+- 新建概念页 9 个: 退市制度、注册制与发行制度、因子投资与多因子模型、存活偏差与前视偏差、风险管理指标、做市商制度、大宗交易机制、事件驱动策略、信息披露与合规规则
+- Raw层缺口修复: 公募基金.md补充fund_factor_pro引用、行业经济与另类数据.md补充电影周度/月度票房sources
+- 30个主题知识页补充sources溯源链接(frontmatter)
+- 扩充薄页 2 个: T+1与做T(37→~60行+API关联)、次新股(补充4个API引用)
+- 7个页面wikilinks从2个增至3+个(估值指标/杜邦分析/每股指标/现金流量表/成长能力/财经日历/资产负债表)
+- 18个API目录页更新updated日期至2026-05-10
+- SCHEMA.md tag taxonomy扩展: 新增 regulation/risk-mgmt/quant/data-eng 四个标签
+- 当前 wiki 共 100 pages (84 concepts + 6 entities + 5 comparisons + 5 queries)

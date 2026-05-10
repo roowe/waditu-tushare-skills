@@ -10,7 +10,7 @@ Tushare Pro 金融数据 API 文档知识库。覆盖 A股、港股、美股、E
 - 更新页面时更新 `updated` 日期
 - 新页面必须添加到 `index.md` 对应分类下
 - 每次操作追加到 `log.md`
-- 来源标记：引用 raw 层源文件时使用 `^[raw/分类/文件名.md]`
+- 来源标记：引用 references 层源文件时使用 `^[references/分类/文件名.md]`
 
 ## Frontmatter
 ```yaml
@@ -54,6 +54,12 @@ sources: [raw/分类/文件名.md]
 - historical — 历史数据
 - pro — 专业版/付费
 - discontinued — 已停更
+
+### 领域知识
+- regulation — 监管制度与合规规则
+- risk-mgmt — 风险管理
+- quant — 量化投资方法论
+- data-eng — 数据工程与偏差防范
 
 ## Page Thresholds
 - **创建页面**：当一类接口涉及 3+ 个 API 或是核心数据品类
